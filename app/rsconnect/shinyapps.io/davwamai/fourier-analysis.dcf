@@ -1,0 +1,12 @@
+name: fourier-analysis
+title: fourier-analysis
+username: davwamai
+account: davwamai
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 9508716
+bundleId: 7496828
+url: https://davwamai.shinyapps.io/fourier-analysis/
+version: 1
+asMultiple: FALSE
+asStatic: FALSE
